@@ -68,4 +68,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 
 
-index.js, App.js, SearchBar.js, form, event handlers, semantic ui, youtube api, app event handler/youtube,setstate videos, videolist, videoitem, map each video and display each vid title and thumbnail, styled list,viditem css,onclick videoitem, videodetail
+index.js, App.js, SearchBar.js, form, event handlers, semantic ui, youtube api, app event handler/youtube,setstate videos, videolist, videoitem, map each video and display each vid title and thumbnail, styled list,viditem css,onclick videoitem, videodetail, conditional rendering IF in videoDetail, styling for viddetail, fix bugs (img elements must have an alt prop, viddetail iframe title), img alt vid snippet title, videoitem key, ui grid in app comp,response data items 0,componentdidmount
